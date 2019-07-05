@@ -1,0 +1,30 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.0.31",
+		"framer": "^0.7.11"
+	},
+	"peerDependencies": {
+		"framer": "^0.7.11",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "db161cbe-5d6b-467d-b3b6-3ae6841e0ef3",
+		"displayName": "Camera Feed"
+	},
+	"author": "basiclines",
+	"name": "@framer/basiclines.camera-feed",
+	"version": "1.8.0",
+	"keywords": [
+		"interactive",
+		"camera",
+		"feed",
+		"stream",
+		"device",
+		"record",
+		"video"
+	],
+	"dependencies": {}
+}
